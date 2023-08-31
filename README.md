@@ -1,6 +1,3 @@
-Sure, here's the content formatted for a GitHub README file:
-
----
 
 # Credit Card Approval Rate Analysis using Machine Learning
 
